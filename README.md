@@ -43,3 +43,38 @@ trade models into macroeconomic and environmental policy planning.
 Python (pandas, statsmodels), OLS regression, ARIMAX/SARIMAX, VAR, Granger 
 causality, time-series diagnostics
 
+## Dashboards
+
+Interactive Power BI dashboards were built to visualize trade and GDP trends 
+across five key industry sectors.
+
+### All Industries — Trade Fluctuations and GDP Trends
+![All Industries Dashboard](images/all-industries-dashboard.png)
+Overview of total U.S. exports/imports across sectors, with export share by 
+industry and a year-over-year comparison of total exports vs. GDP.
+
+### Manufacturing — Trade Flow Shifts and Economic Impact
+![Manufacturing Dashboard](images/manufacturing-dashboard.png)
+Tracks manufacturing exports vs. imports and their tight correlation with GDP 
+growth — the sector identified as the strongest GDP driver in the analysis.
+
+### Wholesale Trade — Imports, Exports, and GDP Correlation
+![Wholesale Trade Dashboard](images/wholesale-trade-dashboard.png)
+Shows wholesale trade balance and its volatile relationship with GDP, 
+consistent with the study's finding of unpredictable wholesale trade effects.
+
+### Agriculture — Trade Performance and Economic Influence
+![Agriculture Dashboard](images/agriculture-dashboard.png)
+Visualizes agriculture, forestry, fishing, and hunting trade balance alongside 
+its steady, positive relationship with GDP over time.
+
+### Mining & Oil — Resource Trade and GDP Linkage
+![Mining Oil Dashboard](images/mining-oil-dashboard.png)
+Highlights mining, quarrying, and oil & gas extraction trade flows, showing a 
+strong export surplus and rising correlation with GDP.
+
+### Utilities Trade — Trade Trends and GDP Impact
+![Utilities Dashboard](images/utilities-dashboard.png)
+Displays utilities trade balance and its gradual alignment with GDP growth 
+across the study period.
+
