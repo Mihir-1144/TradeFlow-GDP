@@ -49,32 +49,32 @@ Interactive Power BI dashboards were built to visualize trade and GDP trends
 across five key industry sectors.
 
 ### All Industries — Trade Fluctuations and GDP Trends
-![All Industries Dashboard](images/all-industries-dashboard.png)
+<img width="1100" height="722" alt="Screenshot 2026-08-25 140654" src="https://github.com/user-attachments/assets/05b0047d-59ed-4912-9413-0808b361a66e" />
 Overview of total U.S. exports/imports across sectors, with export share by 
 industry and a year-over-year comparison of total exports vs. GDP.
 
 ### Manufacturing — Trade Flow Shifts and Economic Impact
-![Manufacturing Dashboard](images/manufacturing-dashboard.png)
+<img width="1087" height="724" alt="Screenshot 2026-08-25 140728" src="https://github.com/user-attachments/assets/60808211-e9fc-46cd-a3c2-a71677222817" />
 Tracks manufacturing exports vs. imports and their tight correlation with GDP 
 growth — the sector identified as the strongest GDP driver in the analysis.
 
 ### Wholesale Trade — Imports, Exports, and GDP Correlation
-![Wholesale Trade Dashboard](images/wholesale-trade-dashboard.png)
+<img width="1087" height="721" alt="Screenshot 2026-08-25 140850" src="https://github.com/user-attachments/assets/89d85f35-805f-473f-84b3-c40235c59d9c" />
 Shows wholesale trade balance and its volatile relationship with GDP, 
 consistent with the study's finding of unpredictable wholesale trade effects.
 
 ### Agriculture — Trade Performance and Economic Influence
-![Agriculture Dashboard](images/agriculture-dashboard.png)
+<img width="1088" height="721" alt="Screenshot 2026-08-25 140919" src="https://github.com/user-attachments/assets/8ae76629-799c-4e4c-a21a-71654df8d6ec" />
 Visualizes agriculture, forestry, fishing, and hunting trade balance alongside 
 its steady, positive relationship with GDP over time.
 
 ### Mining & Oil — Resource Trade and GDP Linkage
-![Mining Oil Dashboard](images/mining-oil-dashboard.png)
+<img width="1084" height="715" alt="Screenshot 2026-08-25 140937" src="https://github.com/user-attachments/assets/6ab872a4-6702-475e-bc44-a6779b0a2845" />
 Highlights mining, quarrying, and oil & gas extraction trade flows, showing a 
 strong export surplus and rising correlation with GDP.
 
 ### Utilities Trade — Trade Trends and GDP Impact
-![Utilities Dashboard](images/utilities-dashboard.png)
+<img width="1094" height="723" alt="Screenshot 2026-08-25 141014" src="https://github.com/user-attachments/assets/14aabf9f-8f87-4b2a-98b5-b5d88c8e9297" />
 Displays utilities trade balance and its gradual alignment with GDP growth 
 across the study period.
 
